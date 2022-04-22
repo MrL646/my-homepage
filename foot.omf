@@ -1,0 +1,9 @@
+﻿<script src='//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
+<div id="vcomments"></div>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: 'W1f70YNqzy0QLtYW60hV0Qev-gzGzoHsz',
+        appKey: 'XJkzWO3Bl3OyG4xdmusyWzFr'
+    })
+</script>
